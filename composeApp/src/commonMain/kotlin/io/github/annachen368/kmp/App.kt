@@ -18,6 +18,10 @@ import org.jetbrains.compose.ui.tooling.preview.Preview
 
 import kmp.composeapp.generated.resources.Res
 import kmp.composeapp.generated.resources.compose_multiplatform
+import kotlinx.datetime.Clock
+import kotlinx.datetime.LocalDateTime
+import kotlinx.datetime.TimeZone
+import kotlinx.datetime.toLocalDateTime
 
 @Composable
 @Preview
@@ -31,6 +35,7 @@ fun App() {
                 .fillMaxSize(),
             horizontalAlignment = Alignment.CenterHorizontally,
         ) {
+            Text(text = "Today's date is ${todaysDate()}")
             Button(onClick = { showContent = !showContent }) {
                 Text("Click me!")
             }
@@ -46,4 +51,12 @@ fun App() {
             }
         }
     }
+}
+
+fun todaysDate(): String {
+    fun LocalDateTime.format() = toString().substringBefore('T')
+
+    val now = Clock.System.now()
+    val zone = TimeZone.currentSystemDefault()
+    return now.toLocalDateTime(zone).format()
 }
