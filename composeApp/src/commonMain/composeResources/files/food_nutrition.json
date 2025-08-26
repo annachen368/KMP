@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1,
+    "name": "Food Item 1",
+    "calories": 51,
+    "protein_g": 0.5,
+    "fat_g": 0.3,
+    "carbs_g": 0.8,
+    "fiber_g": 0.5,
+    "sugar_g": 0.7
+  },
+  {
+    "id": 2,
+    "name": "Food Item 2",
+    "calories": 52,
+    "protein_g": 1.0,
+    "fat_g": 0.6,
+    "carbs_g": 1.6,
+    "fiber_g": 1.0,
+    "sugar_g": 1.4
+  },
+  {
+    "id": 3,
+    "name": "Food Item 3",
+    "calories": 53,
+    "protein_g": 1.5,
+    "fat_g": 0.9,
+    "carbs_g": 2.4,
+    "fiber_g": 1.5,
+    "sugar_g": 2.1
+  },
+  {
+    "id": 4,
+    "name": "Food Item 4",
+    "calories": 54,
+    "protein_g": 2.0,
+    "fat_g": 1.2,
+    "carbs_g": 3.2,
+    "fiber_g": 2.0,
+    "sugar_g": 2.8
+  },
+  {
+    "id": 5,
+    "name": "Food Item 5",
+    "calories": 55,
+    "protein_g": 2.5,
+    "fat_g": 1.5,
+    "carbs_g": 4.0,
+    "fiber_g": 2.5,
+    "sugar_g": 3.5
+  },
+  {
+    "id": 6,
+    "name": "Food Item 6",
+    "calories": 56,
+    "protein_g": 3.0,
+    "fat_g": 1.8,
+    "carbs_g": 4.8,
+    "fiber_g": 3.0,
+    "sugar_g": 4.2
+  },
+  {
+    "id": 7,
+    "name": "Food Item 7",
+    "calories": 57,
+    "protein_g": 3.5,
+    "fat_g": 2.1,
+    "carbs_g": 5.6,
+    "fiber_g": 3.5,
+    "sugar_g": 4.9
+  },
+  {
+    "id": 8,
+    "name": "Food Item 8",
+    "calories": 58,
+    "protein_g": 4.0,
+    "fat_g": 2.4,
+    "carbs_g": 6.4,
+    "fiber_g": 4.0,
+    "sugar_g": 5.6
+  },
+  {
+    "id": 9,
+    "name": "Food Item 9",
+    "calories": 59,
+    "protein_g": 4.5,
+    "fat_g": 2.7,
+    "carbs_g": 7.2,
+    "fiber_g": 4.5,
+    "sugar_g": 6.3
+  },
+  {
+    "id": 10,
+    "name": "Food Item 10",
+    "calories": 60,
+    "protein_g": 5.0,
+    "fat_g": 3.0,
+    "carbs_g": 8.0,
+    "fiber_g": 0.0,
+    "sugar_g": 7.0
+  },
+  {
+    "id": 11,
+    "name": "Food Item 11",
+    "calories": 61,
+    "protein_g": 5.5,
+    "fat_g": 3.3,
+    "carbs_g": 8.8,
+    "fiber_g": 0.5,
+    "sugar_g": 7.7
+  },
+  {
+    "id": 12,
+    "name": "Food Item 12",
+    "calories": 62,
+    "protein_g": 6.0,
+    "fat_g": 3.6,
+    "carbs_g": 9.6,
+    "fiber_g": 1.0,
+    "sugar_g": 8.4
+  },
+  {
+    "id": 13,
+    "name": "Food Item 13",
+    "calories": 63,
+    "protein_g": 6.5,
+    "fat_g": 3.9,
+    "carbs_g": 10.4,
+    "fiber_g": 1.5,
+    "sugar_g": 9.1
+  },
+  {
+    "id": 14,
+    "name": "Food Item 14",
+    "calories": 64,
+    "protein_g": 7.0,
+    "fat_g": 4.2,
+    "carbs_g": 11.2,
+    "fiber_g": 2.0,
+    "sugar_g": 9.8
+  },
+  {
+    "id": 15,
+    "name": "Food Item 15",
+    "calories": 65,
+    "protein_g": 7.5,
+    "fat_g": 4.5,
+    "carbs_g": 12.0,
+    "fiber_g": 2.5,
+    "sugar_g": 0.0
+  },
+  {
+    "id": 16,
+    "name": "Food Item 16",
+    "calories": 66,
+    "protein_g": 8.0,
+    "fat_g": 4.8,
+    "carbs_g": 12.8,
+    "fiber_g": 3.0,
+    "sugar_g": 0.7
+  },
+  {
+    "id": 17,
+    "name": "Food Item 17",
+    "calories": 67,
+    "protein_g": 8.5,
+    "fat_g": 5.1,
+    "carbs_g": 13.6,
+    "fiber_g": 3.5,
+    "sugar_g": 1.4
+  },
+  {
+    "id": 18,
+    "name": "Food Item 18",
+    "calories": 68,
+    "protein_g": 9.0,
+    "fat_g": 5.4,
+    "carbs_g": 14.4,
+    "fiber_g": 4.0,
+    "sugar_g": 2.1
+  },
+  {
+    "id": 19,
+    "name": "Food Item 19",
+    "calories": 69,
+    "protein_g": 9.5,
+    "fat_g": 5.7,
+    "carbs_g": 15.2,
+    "fiber_g": 4.5,
+    "sugar_g": 2.8
+  },
+  {
+    "id": 20,
+    "name": "Food Item 20",
+    "calories": 70,
+    "protein_g": 10.0,
+    "fat_g": 0.0,
+    "carbs_g": 16.0,
+    "fiber_g": 0.0,
+    "sugar_g": 3.5
+  },
+  {
+    "id": 21,
+    "name": "Food Item 21",
+    "calories": 71,
+    "protein_g": 10.5,
+    "fat_g": 0.3,
+    "carbs_g": 16.8,
+    "fiber_g": 0.5,
+    "sugar_g": 4.2
+  },
+  {
+    "id": 22,
+    "name": "Food Item 22",
+    "calories": 72,
+    "protein_g": 11.0,
+    "fat_g": 0.6,
+    "carbs_g": 17.6,
+    "fiber_g": 1.0,
+    "sugar_g": 4.9
+  },
+  {
+    "id": 23,
+    "name": "Food Item 23",
+    "calories": 73,
+    "protein_g": 11.5,
+    "fat_g": 0.9,
+    "carbs_g": 18.4,
+    "fiber_g": 1.5,
+    "sugar_g": 5.6
+  },
+  {
+    "id": 24,
+    "name": "Food Item 24",
+    "calories": 74,
+    "protein_g": 12.0,
+    "fat_g": 1.2,
+    "carbs_g": 19.2,
+    "fiber_g": 2.0,
+    "sugar_g": 6.3
+  },
+  {
+    "id": 25,
+    "name": "Food Item 25",
+    "calories": 75,
+    "protein_g": 12.5,
+    "fat_g": 1.5,
+    "carbs_g": 20.0,
+    "fiber_g": 2.5,
+    "sugar_g": 7.0
+  },
+  {
+    "id": 26,
+    "name": "Food Item 26",
+    "calories": 76,
+    "protein_g": 13.0,
+    "fat_g": 1.8,
+    "carbs_g": 20.8,
+    "fiber_g": 3.0,
+    "sugar_g": 7.7
+  },
+  {
+    "id": 27,
+    "name": "Food Item 27",
+    "calories": 77,
+    "protein_g": 13.5,
+    "fat_g": 2.1,
+    "carbs_g": 21.6,
+    "fiber_g": 3.5,
+    "sugar_g": 8.4
+  },
+  {
+    "id": 28,
+    "name": "Food Item 28",
+    "calories": 78,
+    "protein_g": 14.0,
+    "fat_g": 2.4,
+    "carbs_g": 22.4,
+    "fiber_g": 4.0,
+    "sugar_g": 9.1
+  },
+  {
+    "id": 29,
+    "name": "Food Item 29",
+    "calories": 79,
+    "protein_g": 14.5,
+    "fat_g": 2.7,
+    "carbs_g": 23.2,
+    "fiber_g": 4.5,
+    "sugar_g": 9.8
+  },
+  {
+    "id": 30,
+    "name": "Food Item 30",
+    "calories": 80,
+    "protein_g": 0.0,
+    "fat_g": 3.0,
+    "carbs_g": 24.0,
+    "fiber_g": 0.0,
+    "sugar_g": 0.0
+  },
+  {
+    "id": 31,
+    "name": "Food Item 31",
+    "calories": 81,
+    "protein_g": 0.5,
+    "fat_g": 3.3,
+    "carbs_g": 24.8,
+    "fiber_g": 0.5,
+    "sugar_g": 0.7
+  },
+  {
+    "id": 32,
+    "name": "Food Item 32",
+    "calories": 82,
+    "protein_g": 1.0,
+    "fat_g": 3.6,
+    "carbs_g": 25.6,
+    "fiber_g": 1.0,
+    "sugar_g": 1.4
+  },
+  {
+    "id": 33,
+    "name": "Food Item 33",
+    "calories": 83,
+    "protein_g": 1.5,
+    "fat_g": 3.9,
+    "carbs_g": 26.4,
+    "fiber_g": 1.5,
+    "sugar_g": 2.1
+  },
+  {
+    "id": 34,
+    "name": "Food Item 34",
+    "calories": 84,
+    "protein_g": 2.0,
+    "fat_g": 4.2,
+    "carbs_g": 27.2,
+    "fiber_g": 2.0,
+    "sugar_g": 2.8
+  },
+  {
+    "id": 35,
+    "name": "Food Item 35",
+    "calories": 85,
+    "protein_g": 2.5,
+    "fat_g": 4.5,
+    "carbs_g": 28.0,
+    "fiber_g": 2.5,
+    "sugar_g": 3.5
+  },
+  {
+    "id": 36,
+    "name": "Food Item 36",
+    "calories": 86,
+    "protein_g": 3.0,
+    "fat_g": 4.8,
+    "carbs_g": 28.8,
+    "fiber_g": 3.0,
+    "sugar_g": 4.2
+  },
+  {
+    "id": 37,
+    "name": "Food Item 37",
+    "calories": 87,
+    "protein_g": 3.5,
+    "fat_g": 5.1,
+    "carbs_g": 29.6,
+    "fiber_g": 3.5,
+    "sugar_g": 4.9
+  },
+  {
+    "id": 38,
+    "name": "Food Item 38",
+    "calories": 88,
+    "protein_g": 4.0,
+    "fat_g": 5.4,
+    "carbs_g": 30.4,
+    "fiber_g": 4.0,
+    "sugar_g": 5.6
+  },
+  {
+    "id": 39,
+    "name": "Food Item 39",
+    "calories": 89,
+    "protein_g": 4.5,
+    "fat_g": 5.7,
+    "carbs_g": 31.2,
+    "fiber_g": 4.5,
+    "sugar_g": 6.3
+  },
+  {
+    "id": 40,
+    "name": "Food Item 40",
+    "calories": 90,
+    "protein_g": 5.0,
+    "fat_g": 0.0,
+    "carbs_g": 0.0,
+    "fiber_g": 0.0,
+    "sugar_g": 7.0
+  },
+  {
+    "id": 41,
+    "name": "Food Item 41",
+    "calories": 91,
+    "protein_g": 5.5,
+    "fat_g": 0.3,
+    "carbs_g": 0.8,
+    "fiber_g": 0.5,
+    "sugar_g": 7.7
+  },
+  {
+    "id": 42,
+    "name": "Food Item 42",
+    "calories": 92,
+    "protein_g": 6.0,
+    "fat_g": 0.6,
+    "carbs_g": 1.6,
+    "fiber_g": 1.0,
+    "sugar_g": 8.4
+  },
+  {
+    "id": 43,
+    "name": "Food Item 43",
+    "calories": 93,
+    "protein_g": 6.5,
+    "fat_g": 0.9,
+    "carbs_g": 2.4,
+    "fiber_g": 1.5,
+    "sugar_g": 9.1
+  },
+  {
+    "id": 44,
+    "name": "Food Item 44",
+    "calories": 94,
+    "protein_g": 7.0,
+    "fat_g": 1.2,
+    "carbs_g": 3.2,
+    "fiber_g": 2.0,
+    "sugar_g": 9.8
+  },
+  {
+    "id": 45,
+    "name": "Food Item 45",
+    "calories": 95,
+    "protein_g": 7.5,
+    "fat_g": 1.5,
+    "carbs_g": 4.0,
+    "fiber_g": 2.5,
+    "sugar_g": 0.0
+  },
+  {
+    "id": 46,
+    "name": "Food Item 46",
+    "calories": 96,
+    "protein_g": 8.0,
+    "fat_g": 1.8,
+    "carbs_g": 4.8,
+    "fiber_g": 3.0,
+    "sugar_g": 0.7
+  },
+  {
+    "id": 47,
+    "name": "Food Item 47",
+    "calories": 97,
+    "protein_g": 8.5,
+    "fat_g": 2.1,
+    "carbs_g": 5.6,
+    "fiber_g": 3.5,
+    "sugar_g": 1.4
+  },
+  {
+    "id": 48,
+    "name": "Food Item 48",
+    "calories": 98,
+    "protein_g": 9.0,
+    "fat_g": 2.4,
+    "carbs_g": 6.4,
+    "fiber_g": 4.0,
+    "sugar_g": 2.1
+  },
+  {
+    "id": 49,
+    "name": "Food Item 49",
+    "calories": 99,
+    "protein_g": 9.5,
+    "fat_g": 2.7,
+    "carbs_g": 7.2,
+    "fiber_g": 4.5,
+    "sugar_g": 2.8
+  },
+  {
+    "id": 50,
+    "name": "Food Item 50",
+    "calories": 100,
+    "protein_g": 10.0,
+    "fat_g": 3.0,
+    "carbs_g": 8.0,
+    "fiber_g": 0.0,
+    "sugar_g": 3.5
+  },
+  {
+    "id": 51,
+    "name": "Food Item 51",
+    "calories": 101,
+    "protein_g": 10.5,
+    "fat_g": 3.3,
+    "carbs_g": 8.8,
+    "fiber_g": 0.5,
+    "sugar_g": 4.2
+  },
+  {
+    "id": 52,
+    "name": "Food Item 52",
+    "calories": 102,
+    "protein_g": 11.0,
+    "fat_g": 3.6,
+    "carbs_g": 9.6,
+    "fiber_g": 1.0,
+    "sugar_g": 4.9
+  },
+  {
+    "id": 53,
+    "name": "Food Item 53",
+    "calories": 103,
+    "protein_g": 11.5,
+    "fat_g": 3.9,
+    "carbs_g": 10.4,
+    "fiber_g": 1.5,
+    "sugar_g": 5.6
+  },
+  {
+    "id": 54,
+    "name": "Food Item 54",
+    "calories": 104,
+    "protein_g": 12.0,
+    "fat_g": 4.2,
+    "carbs_g": 11.2,
+    "fiber_g": 2.0,
+    "sugar_g": 6.3
+  },
+  {
+    "id": 55,
+    "name": "Food Item 55",
+    "calories": 105,
+    "protein_g": 12.5,
+    "fat_g": 4.5,
+    "carbs_g": 12.0,
+    "fiber_g": 2.5,
+    "sugar_g": 7.0
+  },
+  {
+    "id": 56,
+    "name": "Food Item 56",
+    "calories": 106,
+    "protein_g": 13.0,
+    "fat_g": 4.8,
+    "carbs_g": 12.8,
+    "fiber_g": 3.0,
+    "sugar_g": 7.7
+  },
+  {
+    "id": 57,
+    "name": "Food Item 57",
+    "calories": 107,
+    "protein_g": 13.5,
+    "fat_g": 5.1,
+    "carbs_g": 13.6,
+    "fiber_g": 3.5,
+    "sugar_g": 8.4
+  },
+  {
+    "id": 58,
+    "name": "Food Item 58",
+    "calories": 108,
+    "protein_g": 14.0,
+    "fat_g": 5.4,
+    "carbs_g": 14.4,
+    "fiber_g": 4.0,
+    "sugar_g": 9.1
+  },
+  {
+    "id": 59,
+    "name": "Food Item 59",
+    "calories": 109,
+    "protein_g": 14.5,
+    "fat_g": 5.7,
+    "carbs_g": 15.2,
+    "fiber_g": 4.5,
+    "sugar_g": 9.8
+  },
+  {
+    "id": 60,
+    "name": "Food Item 60",
+    "calories": 110,
+    "protein_g": 0.0,
+    "fat_g": 0.0,
+    "carbs_g": 16.0,
+    "fiber_g": 0.0,
+    "sugar_g": 0.0
+  },
+  {
+    "id": 61,
+    "name": "Food Item 61",
+    "calories": 111,
+    "protein_g": 0.5,
+    "fat_g": 0.3,
+    "carbs_g": 16.8,
+    "fiber_g": 0.5,
+    "sugar_g": 0.7
+  },
+  {
+    "id": 62,
+    "name": "Food Item 62",
+    "calories": 112,
+    "protein_g": 1.0,
+    "fat_g": 0.6,
+    "carbs_g": 17.6,
+    "fiber_g": 1.0,
+    "sugar_g": 1.4
+  },
+  {
+    "id": 63,
+    "name": "Food Item 63",
+    "calories": 113,
+    "protein_g": 1.5,
+    "fat_g": 0.9,
+    "carbs_g": 18.4,
+    "fiber_g": 1.5,
+    "sugar_g": 2.1
+  },
+  {
+    "id": 64,
+    "name": "Food Item 64",
+    "calories": 114,
+    "protein_g": 2.0,
+    "fat_g": 1.2,
+    "carbs_g": 19.2,
+    "fiber_g": 2.0,
+    "sugar_g": 2.8
+  },
+  {
+    "id": 65,
+    "name": "Food Item 65",
+    "calories": 115,
+    "protein_g": 2.5,
+    "fat_g": 1.5,
+    "carbs_g": 20.0,
+    "fiber_g": 2.5,
+    "sugar_g": 3.5
+  },
+  {
+    "id": 66,
+    "name": "Food Item 66",
+    "calories": 116,
+    "protein_g": 3.0,
+    "fat_g": 1.8,
+    "carbs_g": 20.8,
+    "fiber_g": 3.0,
+    "sugar_g": 4.2
+  },
+  {
+    "id": 67,
+    "name": "Food Item 67",
+    "calories": 117,
+    "protein_g": 3.5,
+    "fat_g": 2.1,
+    "carbs_g": 21.6,
+    "fiber_g": 3.5,
+    "sugar_g": 4.9
+  },
+  {
+    "id": 68,
+    "name": "Food Item 68",
+    "calories": 118,
+    "protein_g": 4.0,
+    "fat_g": 2.4,
+    "carbs_g": 22.4,
+    "fiber_g": 4.0,
+    "sugar_g": 5.6
+  },
+  {
+    "id": 69,
+    "name": "Food Item 69",
+    "calories": 119,
+    "protein_g": 4.5,
+    "fat_g": 2.7,
+    "carbs_g": 23.2,
+    "fiber_g": 4.5,
+    "sugar_g": 6.3
+  },
+  {
+    "id": 70,
+    "name": "Food Item 70",
+    "calories": 120,
+    "protein_g": 5.0,
+    "fat_g": 3.0,
+    "carbs_g": 24.0,
+    "fiber_g": 0.0,
+    "sugar_g": 7.0
+  },
+  {
+    "id": 71,
+    "name": "Food Item 71",
+    "calories": 121,
+    "protein_g": 5.5,
+    "fat_g": 3.3,
+    "carbs_g": 24.8,
+    "fiber_g": 0.5,
+    "sugar_g": 7.7
+  },
+  {
+    "id": 72,
+    "name": "Food Item 72",
+    "calories": 122,
+    "protein_g": 6.0,
+    "fat_g": 3.6,
+    "carbs_g": 25.6,
+    "fiber_g": 1.0,
+    "sugar_g": 8.4
+  },
+  {
+    "id": 73,
+    "name": "Food Item 73",
+    "calories": 123,
+    "protein_g": 6.5,
+    "fat_g": 3.9,
+    "carbs_g": 26.4,
+    "fiber_g": 1.5,
+    "sugar_g": 9.1
+  },
+  {
+    "id": 74,
+    "name": "Food Item 74",
+    "calories": 124,
+    "protein_g": 7.0,
+    "fat_g": 4.2,
+    "carbs_g": 27.2,
+    "fiber_g": 2.0,
+    "sugar_g": 9.8
+  },
+  {
+    "id": 75,
+    "name": "Food Item 75",
+    "calories": 125,
+    "protein_g": 7.5,
+    "fat_g": 4.5,
+    "carbs_g": 28.0,
+    "fiber_g": 2.5,
+    "sugar_g": 0.0
+  },
+  {
+    "id": 76,
+    "name": "Food Item 76",
+    "calories": 126,
+    "protein_g": 8.0,
+    "fat_g": 4.8,
+    "carbs_g": 28.8,
+    "fiber_g": 3.0,
+    "sugar_g": 0.7
+  },
+  {
+    "id": 77,
+    "name": "Food Item 77",
+    "calories": 127,
+    "protein_g": 8.5,
+    "fat_g": 5.1,
+    "carbs_g": 29.6,
+    "fiber_g": 3.5,
+    "sugar_g": 1.4
+  },
+  {
+    "id": 78,
+    "name": "Food Item 78",
+    "calories": 128,
+    "protein_g": 9.0,
+    "fat_g": 5.4,
+    "carbs_g": 30.4,
+    "fiber_g": 4.0,
+    "sugar_g": 2.1
+  },
+  {
+    "id": 79,
+    "name": "Food Item 79",
+    "calories": 129,
+    "protein_g": 9.5,
+    "fat_g": 5.7,
+    "carbs_g": 31.2,
+    "fiber_g": 4.5,
+    "sugar_g": 2.8
+  },
+  {
+    "id": 80,
+    "name": "Food Item 80",
+    "calories": 130,
+    "protein_g": 10.0,
+    "fat_g": 0.0,
+    "carbs_g": 0.0,
+    "fiber_g": 0.0,
+    "sugar_g": 3.5
+  },
+  {
+    "id": 81,
+    "name": "Food Item 81",
+    "calories": 131,
+    "protein_g": 10.5,
+    "fat_g": 0.3,
+    "carbs_g": 0.8,
+    "fiber_g": 0.5,
+    "sugar_g": 4.2
+  },
+  {
+    "id": 82,
+    "name": "Food Item 82",
+    "calories": 132,
+    "protein_g": 11.0,
+    "fat_g": 0.6,
+    "carbs_g": 1.6,
+    "fiber_g": 1.0,
+    "sugar_g": 4.9
+  },
+  {
+    "id": 83,
+    "name": "Food Item 83",
+    "calories": 133,
+    "protein_g": 11.5,
+    "fat_g": 0.9,
+    "carbs_g": 2.4,
+    "fiber_g": 1.5,
+    "sugar_g": 5.6
+  },
+  {
+    "id": 84,
+    "name": "Food Item 84",
+    "calories": 134,
+    "protein_g": 12.0,
+    "fat_g": 1.2,
+    "carbs_g": 3.2,
+    "fiber_g": 2.0,
+    "sugar_g": 6.3
+  },
+  {
+    "id": 85,
+    "name": "Food Item 85",
+    "calories": 135,
+    "protein_g": 12.5,
+    "fat_g": 1.5,
+    "carbs_g": 4.0,
+    "fiber_g": 2.5,
+    "sugar_g": 7.0
+  },
+  {
+    "id": 86,
+    "name": "Food Item 86",
+    "calories": 136,
+    "protein_g": 13.0,
+    "fat_g": 1.8,
+    "carbs_g": 4.8,
+    "fiber_g": 3.0,
+    "sugar_g": 7.7
+  },
+  {
+    "id": 87,
+    "name": "Food Item 87",
+    "calories": 137,
+    "protein_g": 13.5,
+    "fat_g": 2.1,
+    "carbs_g": 5.6,
+    "fiber_g": 3.5,
+    "sugar_g": 8.4
+  },
+  {
+    "id": 88,
+    "name": "Food Item 88",
+    "calories": 138,
+    "protein_g": 14.0,
+    "fat_g": 2.4,
+    "carbs_g": 6.4,
+    "fiber_g": 4.0,
+    "sugar_g": 9.1
+  },
+  {
+    "id": 89,
+    "name": "Food Item 89",
+    "calories": 139,
+    "protein_g": 14.5,
+    "fat_g": 2.7,
+    "carbs_g": 7.2,
+    "fiber_g": 4.5,
+    "sugar_g": 9.8
+  },
+  {
+    "id": 90,
+    "name": "Food Item 90",
+    "calories": 140,
+    "protein_g": 0.0,
+    "fat_g": 3.0,
+    "carbs_g": 8.0,
+    "fiber_g": 0.0,
+    "sugar_g": 0.0
+  },
+  {
+    "id": 91,
+    "name": "Food Item 91",
+    "calories": 141,
+    "protein_g": 0.5,
+    "fat_g": 3.3,
+    "carbs_g": 8.8,
+    "fiber_g": 0.5,
+    "sugar_g": 0.7
+  },
+  {
+    "id": 92,
+    "name": "Food Item 92",
+    "calories": 142,
+    "protein_g": 1.0,
+    "fat_g": 3.6,
+    "carbs_g": 9.6,
+    "fiber_g": 1.0,
+    "sugar_g": 1.4
+  },
+  {
+    "id": 93,
+    "name": "Food Item 93",
+    "calories": 143,
+    "protein_g": 1.5,
+    "fat_g": 3.9,
+    "carbs_g": 10.4,
+    "fiber_g": 1.5,
+    "sugar_g": 2.1
+  },
+  {
+    "id": 94,
+    "name": "Food Item 94",
+    "calories": 144,
+    "protein_g": 2.0,
+    "fat_g": 4.2,
+    "carbs_g": 11.2,
+    "fiber_g": 2.0,
+    "sugar_g": 2.8
+  },
+  {
+    "id": 95,
+    "name": "Food Item 95",
+    "calories": 145,
+    "protein_g": 2.5,
+    "fat_g": 4.5,
+    "carbs_g": 12.0,
+    "fiber_g": 2.5,
+    "sugar_g": 3.5
+  },
+  {
+    "id": 96,
+    "name": "Food Item 96",
+    "calories": 146,
+    "protein_g": 3.0,
+    "fat_g": 4.8,
+    "carbs_g": 12.8,
+    "fiber_g": 3.0,
+    "sugar_g": 4.2
+  },
+  {
+    "id": 97,
+    "name": "Food Item 97",
+    "calories": 147,
+    "protein_g": 3.5,
+    "fat_g": 5.1,
+    "carbs_g": 13.6,
+    "fiber_g": 3.5,
+    "sugar_g": 4.9
+  },
+  {
+    "id": 98,
+    "name": "Food Item 98",
+    "calories": 148,
+    "protein_g": 4.0,
+    "fat_g": 5.4,
+    "carbs_g": 14.4,
+    "fiber_g": 4.0,
+    "sugar_g": 5.6
+  },
+  {
+    "id": 99,
+    "name": "Food Item 99",
+    "calories": 149,
+    "protein_g": 4.5,
+    "fat_g": 5.7,
+    "carbs_g": 15.2,
+    "fiber_g": 4.5,
+    "sugar_g": 6.3
+  },
+  {
+    "id": 100,
+    "name": "Food Item 100",
+    "calories": 150,
+    "protein_g": 5.0,
+    "fat_g": 0.0,
+    "carbs_g": 16.0,
+    "fiber_g": 0.0,
+    "sugar_g": 7.0
+  }
+]
