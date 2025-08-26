@@ -33,7 +33,6 @@ class FoodViewModel : ViewModel() {
         }
     }
 
-    @OptIn(InternalResourceApi::class)
     suspend fun loadFoodFromResource(): List<FoodItem> {
         val bytes = Res.readBytes("files/food_nutrition.json")
         val text = bytes.decodeToString()
